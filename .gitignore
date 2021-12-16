@@ -1,2 +1,6 @@
 API.swift
 .DS_Store
+Podfile
+Podfile.lock
+Pods
+COVID19.xcworkspace
